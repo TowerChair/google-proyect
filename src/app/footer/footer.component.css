@@ -1,0 +1,48 @@
+.foot {
+    
+    display: flex;
+}
+mat-list-item{
+    color:rgb(129, 133, 133);
+    font-size: 1rem;
+    margin-left: 20px;
+}
+mat-divider{
+    border-top-color:rgb(168, 175, 175);
+}
+
+.footer-items{
+    display: flex;
+    list-style: none;
+    width: 100%;
+    
+}
+.footer-items a{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    color:rgb(129, 133, 133);
+    font-size: 1rem;
+    margin: 25px ;
+}
+.footer-items-dos{
+    width: 100%;
+    color:rgb(129, 133, 133);
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.footer-items-tres{
+    display: flex;
+    list-style: none;
+    width: 100%;
+}
+
+.footer-items-tres a{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    color:rgb(129, 133, 133);
+    font-size: 1rem;
+    margin: 25px ;
+}
